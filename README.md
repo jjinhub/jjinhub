@@ -28,7 +28,7 @@ Hyun-Jin Kim
 
 #### Backend
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
-<img alt="Flask" src="https://img.shields.io/badge/Flask-black.svg?&style=for-the-badge&logo=Flask&logoColor=white"/>
+<img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?&style=for-the-badge&logo=Flask&logoColor=white"/>
 <br/>
 
 #### Database
@@ -49,8 +49,20 @@ Hyun-Jin Kim
 <br/><br/>
 
 ### ✏ Blog
-<a href="https://naver.com">
+<a href="https://jjinhub.github.io">
+  <img alt="GitBlog" src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="https://naver.com/khj05592002">
   <img alt="Naver" src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
+</a>
+<a href=https://khj05592002.tistory.com/">
+  <img alt="Tistory" src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
+</a>
+<a href="https://velog.io/@khj05592002">
+  <img alt="Velog" src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
+</a>
+<a href="https://www.instagram.com/dev_jjiny">
+  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 
 </div>
