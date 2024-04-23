@@ -1,6 +1,6 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hyun-Jin&fontColor=2E2E2E&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hyun-Jin&fontColor=585858&fontSize=50)
   
 </div>
 
