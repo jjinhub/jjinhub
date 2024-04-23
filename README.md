@@ -17,13 +17,23 @@ Thank you.
 
 Hyun-Jin Kim
 
+<br/>
+
 ### 💻 Skills
 #### Frontend
 <img alt="Html" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> 
 <img alt="Css" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/> 
 <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/> 
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> 
+<br/>
 
+#### Backend
+<img alt="Flask" src ="https://img.shields.io/badge/Flask-black.svg?&style=for-the-badge&logo=Flask&logoColor=white"/>
+<br/>
+
+#### Database
+<img alt="MySQL" src ="https://img.shields.io/badge/MySQL-#4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
+<img alt="Postgresql" src ="https://img.shields.io/badge/Postgresql-#4169E1.svg?&style=for-the-badge&logo=Postgresql&logoColor=white"/>
+<br/>
 </div>
 
 
