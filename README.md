@@ -17,7 +17,7 @@ Thank you.
 
 Hyun-Jin Kim
 
-<br/>
+<br/><br/>
 
 ### 💻 Skills
 #### Frontend
@@ -49,7 +49,10 @@ Hyun-Jin Kim
 <br/><br/>
 
 ### ✏ Blog
-dd
+<a href="https://naver.com">
+  <img alt="Naver" src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
+</a>
+
 </div>
 
 
