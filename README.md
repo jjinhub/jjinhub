@@ -21,18 +21,18 @@ Hyun-Jin Kim
 
 ### 💻 Skills
 #### Frontend
-<img alt="Html" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> 
-<img alt="Css" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/> 
-<img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/> 
+<img alt="Html" src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> 
+<img alt="Css" src="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/> 
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/> 
 <br/>
 
 #### Backend
-<img alt="Flask" src ="https://img.shields.io/badge/Flask-black.svg?&style=for-the-badge&logo=Flask&logoColor=white"/>
+<img alt="Flask" src="https://img.shields.io/badge/Flask-black.svg?&style=for-the-badge&logo=Flask&logoColor=white"/>
 <br/>
 
 #### Database
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img alt="postgresql" src ="https://img.shields.io/badge/postgresql-#4169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/postgresql-#4169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
 <br/>
 
 #### Tools
