@@ -31,8 +31,8 @@ Hyun-Jin Kim
 <br/>
 
 #### Database
-<img alt="MySQL" src ="https://img.shields.io/badge/MySQL-#4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
-<img alt="Postgresql" src ="https://img.shields.io/badge/Postgresql-#4169E1.svg?&style=for-the-badge&logo=Postgresql&logoColor=white"/>
+<img alt="mysql" src ="https://img.shields.io/badge/mysql-#4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+<img alt="postgresql" src ="https://img.shields.io/badge/postgresql-#4169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
 <br/>
 </div>
 
