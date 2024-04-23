@@ -27,6 +27,7 @@ Hyun-Jin Kim
 <br/>
 
 #### Backend
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 <img alt="Flask" src="https://img.shields.io/badge/Flask-black.svg?&style=for-the-badge&logo=Flask&logoColor=white"/>
 <br/>
 
@@ -37,6 +38,7 @@ Hyun-Jin Kim
 
 #### Tools
 <img alt="VScode" src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
+<img alt="Photoshop" src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
 <br/>
 
 #### Version Control
@@ -45,10 +47,6 @@ Hyun-Jin Kim
 </div>
 
 
-
-
-
-### Hi there 👋
 
 <!--
 **jjinhub/jjinhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
