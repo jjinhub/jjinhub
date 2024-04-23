@@ -9,8 +9,8 @@
 ### 👋 Welcome 
 Hello!😁 I am Hyun-Jin Kim, a new developer with a passion for FE Development.
 
-I have a constant desire and desire to explore and create services that users feel familiar and comfortable with. To this end, I am fascinated by FE Development and am working hard to acquire professional skills and knowledge.
-Recently, I have been learning technical aspects such as Javascript, HTML, and CSS. I also plan to learn technologies like React, Vue.js, etc.
+I have a constant desire and desire to explore and create services that users feel familiar and comfortable with. To this end, I am fascinated by FE Development and am working hard to acquire professional skills and knowledge.<br/>
+Recently, I have been learning technical aspects such as Javascript, HTML, and CSS. I also plan to learn technologies like React, Vue.js, etc.<br/>
 I am looking forward to the opportunity to demonstrate my capabilities as a front-end developer and grow together.
 
 Thank you.
