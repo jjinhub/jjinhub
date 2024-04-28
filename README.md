@@ -54,7 +54,7 @@
 
 # 🛠️ Github Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jjinhub&theme=radical&border=7F3FBF&background=0D1117&icon_color=F8D866" alt="jjinhub's GitHub streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jjinhub&show_icons=true&theme=radical&border=7F3FBF&background=0D1117&icon_color=F8D866" alt="jjinhub's GitHub streak"/>
 </p>
 
 [![jjinhub's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hyunjinkim&theme=react%&bg_color=0D1117&border_color=7F3FBF&title_color=F85D7F)](https://wakatime.com/@hyunjinkim)
