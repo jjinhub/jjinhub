@@ -60,7 +60,7 @@
 [![jjinhub's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hyunjinkim&theme=react%&bg_color=0D1117&border_color=7F3FBF&title_color=F85D7F)](https://wakatime.com/@hyunjinkim)
 
 <a href="https://opgc.me/#/users/jjinhub" target="_blank">
-  <img src="https://api.opgc.me/githubs/users/jjinhub/tag/?theme=basic&bg_color=0D1117" />
+  <img src="https://api.opgc.me/githubs/users/jjinhub/tag/?theme=react&bg_color=0D1117" />
 </a>
 
 <p href="https://github.com/jjinhub" align="center">
