@@ -21,31 +21,31 @@
 
 # 💻 Skills
 ### Frontend
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 <img alt="Html" src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> 
 <img alt="Css" src="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/> 
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/> 
-<br/>
+<br/><br/>
 
 ### Backend
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?&style=for-the-badge&logo=Flask&logoColor=white"/>
-<br/>
+<br/><br/>
 
-#### Database
+### Database
 <img alt="DuckDB" src="https://img.shields.io/badge/duckdb-FFF000?style=for-the-badge&logo=duckdb&logoColor=white">
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img alt="Postgresql" src="https://img.shields.io/badge/postgresql-4169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
-<br/>
+<br/><br/>
 
-#### Tools
+### Tools
 <img alt="VScode" src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
 <img alt="Photoshop" src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
-<br/>
+<br/><br/>
 
-#### Version Control
+### Version Control
 <img alt="Github" src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img alt="Git" src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-
 <br/><br/>
 
 ### ✏ Blog
