@@ -75,7 +75,7 @@
 
 ![jjinhub's Graph](https://github-readme-activity-graph.vercel.app/graph?username=jjinhub&custom_title=jjinhub's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
-![](./profile-3d-contrib/profile-gitblock.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <!--
 **jjinhub/jjinhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
