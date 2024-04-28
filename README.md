@@ -59,6 +59,10 @@
 
 [![jjinhub's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hyunjinkim&theme=react%&bg_color=0D1117&border_color=7F3FBF&title_color=F85D7F)](https://wakatime.com/@hyunjinkim)
 
+<a href="https://opgc.me/#/users/jjinhub" target="_blank">
+  <img src="https://api.opgc.me/githubs/users/jjinhub/tag/?theme=basic&bg_color=0D1117" />
+</a>
+
 <p href="https://github.com/jjinhub" align="center">
   <img alt="jjinhub's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=jjinhub&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="180em"/>
   <img alt="jjinhub's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=jjinhub&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="180em"/>
@@ -67,9 +71,7 @@
 
 ![jjinhub's Graph](https://github-readme-activity-graph.vercel.app/graph?username=jjinhub&custom_title=jjinhub's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
-![jjinhub's Contrib](./profile-3d-contrib/profile-night-green.svg)
 
-<a href="https://opgc.me/#/users/jjinhub" target="_blank"><img src="https://api.opgc.me/githubs/users/jjinhub/tag/?theme=basic" /></a>
 
 <!--
 **jjinhub/jjinhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
