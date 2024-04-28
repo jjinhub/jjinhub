@@ -6,7 +6,7 @@
 <!-- WakaTime -->
 [![wakatime](https://wakatime.com/badge/user/73943fcf-f7e6-450f-8589-a6c2a6347733.svg)](https://wakatime.com/@73943fcf-f7e6-450f-8589-a6c2a6347733)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=150)
 
 <!-- About Section -->
 # 👋 About me
