@@ -4,9 +4,7 @@
 </a>
 
 <!-- WakaTime -->
-<a href="https://wakatime.com/@73943fcf-f7e6-450f-8589-a6c2a6347733">
-  <img align="left" src="https://wakatime.com/badge/user/73943fcf-f7e6-450f-8589-a6c2a6347733.svg" alt="Total time coded since Apr 28 2024" />
-</a>
+[![wakatime](https://wakatime.com/badge/user/73943fcf-f7e6-450f-8589-a6c2a6347733.svg)](https://wakatime.com/@73943fcf-f7e6-450f-8589-a6c2a6347733)
 
 
 <div align=center>
