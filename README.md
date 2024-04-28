@@ -9,7 +9,7 @@
 <!-- About Section -->
 # 👋 About me
 <p>
- <img align="right" src="/assets/profile.gif" alt="Coding Profile" width="450" />
+ <img align="right" src="/assets/profile.gif" alt="Coding Profile" width="350" />
   
  ✌️ &emsp; Hello!😁 I am Hyun-Jin Kim, a developer with a passion for FE Development.<br/><br/>
  ❤️ &emsp; tt<br/><br/>
