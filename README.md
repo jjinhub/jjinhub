@@ -11,49 +11,20 @@
 <p>
  <img align="right" src="/assets/profile.gif" alt="Coding Profile" width="350" />
   
- ✌️ &emsp; I am Hyun-Jin Kim, a developer with a passion for FE Development.<br/><br/>
- ❤️ &emsp;  Love to writing code and learning new skills<br/><br/>
- 📧 &emsp; tt<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/alsiam/alsiam/issues)
-
+ 😉 &emsp; I am Hyun-Jin Kim, a developer with a passion for FE Development.<br/><br/>
+ ❤️ &emsp; Love to writing code and learning new technologies.<br/><br/>
+ 📧 &emsp; Reach me anytime: khj05592002@naver.com<br/><br/>
+ 💬 &emsp; Read my blog: [jjinhub's Blog](https://jjinhub.github.io)
 </p>
 
-
-
-
-
-
-
-
-<div align=center>
-
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hyun-Jin&fontColor=2E2E2E&fontSize=50)
-
-</div>
-
-<div align=left>
-  
-### 👋 Welcome 
-Hello!😁 I am Hyun-Jin Kim, a new developer with a passion for FE Development.
-
-I have a constant desire and desire to explore and create services that users feel familiar and comfortable with. To this end, I am fascinated by FE Development and am working hard to acquire professional skills and knowledge.<br/>
-Recently, I have been learning technical aspects such as Javascript, HTML, and CSS. I also plan to learn technologies like React, Vue.js, etc.<br/>
-I am looking forward to the opportunity to demonstrate my capabilities as a front-end developer and grow together.
-
-Thank you.
-
-Hyun-Jin Kim
-
-<br/><br/>
-
-### 💻 Skills
-#### Frontend
+# 💻 Skills
+## Frontend
 <img alt="Html" src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> 
 <img alt="Css" src="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/> 
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/> 
 <br/>
 
-#### Backend
+### Backend
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?&style=for-the-badge&logo=Flask&logoColor=white"/>
 <br/>
