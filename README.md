@@ -1,3 +1,8 @@
+<!-- 방문자 수 -->
+<div align=right>
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjjinhub&count_bg=%233D7CC8&title_bg=%23454243&icon=apple.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+</div>
+
 <div align=center>
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hyun-Jin&fontColor=2E2E2E&fontSize=50)
