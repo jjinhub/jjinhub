@@ -9,7 +9,7 @@
 <!-- About Section -->
 # 👋 About me
 <p>
- <img align="right" src="/assets/profile.jpg" alt="Coding Profile" width="10%" height="10%" />
+ <img align="right" src="/assets/profile.jpg" alt="Coding Profile" width="30%" height="30%" />
   
  ✌️ &emsp; tt<br/><br/>
  ❤️ &emsp; tt<br/><br/>
