@@ -6,6 +6,24 @@
 <!-- WakaTime -->
 [![wakatime](https://wakatime.com/badge/user/73943fcf-f7e6-450f-8589-a6c2a6347733.svg)](https://wakatime.com/@73943fcf-f7e6-450f-8589-a6c2a6347733)
 
+<!-- About Section -->
+# 👋 About me
+<p>
+ <img align="right" width="350" src="C:\Users\profile.jpg" alt="Coding Profile" />
+  
+ ✌️ &emsp; tt<br/><br/>
+ ❤️ &emsp; tt<br/><br/>
+ 📧 &emsp; tt<br/><br/>
+ 💬 &emsp; Ask me about anything [here](https://github.com/alsiam/alsiam/issues)
+
+</p>
+
+
+
+
+
+
+
 
 <div align=center>
 
