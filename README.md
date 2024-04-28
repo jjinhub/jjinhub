@@ -6,7 +6,9 @@
 <!-- WakaTime -->
 [![wakatime](https://wakatime.com/badge/user/73943fcf-f7e6-450f-8589-a6c2a6347733.svg)](https://wakatime.com/@73943fcf-f7e6-450f-8589-a6c2a6347733)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=150)
+<!-- Header -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+HyunJin's+GitHub!👋)](https://git.io/typing-svg)
 
 <!-- About Section -->
 # 👋 About me
