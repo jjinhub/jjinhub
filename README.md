@@ -69,6 +69,7 @@
 
 ![jjinhub's Contrib](./profile-3d-contrib/profile-night-green.svg)
 
+<a href="https://opgc.me/#/users/jjinhub" target="_blank"><img src="https://api.opgc.me/githubs/users/jjinhub/tag/?theme=basic" /></a>
 
 <!--
 **jjinhub/jjinhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -81,6 +82,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
+
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
