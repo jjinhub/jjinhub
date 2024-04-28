@@ -3,6 +3,9 @@
   <img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjjinhub&count_bg=%233D7CC8&title_bg=%23454243&icon=apple.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/>
 </a>
 
+<!-- WakaTime -->
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hyunjinkim)](https://wakatime.com/@hyunjinkim)
+
 
 <div align=center>
 
