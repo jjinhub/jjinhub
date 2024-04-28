@@ -11,7 +11,7 @@
 <p>
  <img align="right" src="/assets/profile.gif" alt="Coding Profile" width="450" />
   
- ✌️ &emsp; tt<br/><br/>
+ ✌️ &emsp; Hello!😁 I am Hyun-Jin Kim, a developer with a passion for FE Development.<br/><br/>
  ❤️ &emsp; tt<br/><br/>
  📧 &emsp; tt<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/alsiam/alsiam/issues)
