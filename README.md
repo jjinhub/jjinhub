@@ -38,27 +38,18 @@
 <br/><br/>
 
 ### Tools
-<img alt="VScode" src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
-<img alt="Photoshop" src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+![VScode](https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Photoshop](https://img.shields.io/badge/adobephotoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 <br/><br/>
 
 ### Version Control
-<img alt="Github" src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img alt="Git" src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 <br/><br/>
 
-### ✏ Blog
-<a href="https://jjinhub.github.io">
-  <img alt="GitBlog" src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-<a href=https://khj05592002.tistory.com/">
-  <img alt="Tistory" src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
-</a>
-<a href="https://www.instagram.com/dev_jjiny">
-  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
-
-</div>
+# ✏ Blog
+![GitBlog](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+![Tistory](https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)
+![Instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
 
 
