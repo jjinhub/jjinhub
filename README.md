@@ -32,9 +32,9 @@
 <br/><br/>
 
 ### Database
-<img alt="DuckDB" src="https://img.shields.io/badge/duckdb-FFF000?style=for-the-badge&logo=duckdb&logoColor=white">
-<img alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img alt="Postgresql" src="https://img.shields.io/badge/postgresql-4169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
+![DuckDB](https://img.shields.io/badge/duckdb-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgresql](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 <br/><br/>
 
 ### Tools
