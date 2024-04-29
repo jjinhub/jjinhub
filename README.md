@@ -69,6 +69,37 @@
 
 
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+🌆 Daytime                57 commits          ████████░░░░░░░░░░░░░░░░░   31.15 % 
+🌃 Evening                7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+🌙 Night                  102 commits         ██████████████░░░░░░░░░░░   55.74 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   130 commits         ██████████████████░░░░░░░   71.04 % 
+Tuesday                  31 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
+Wednesday                7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+Thursday                 4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+Friday                   6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+HTML                     2 mins              █████████████████████████   100.00 % 
+```
+
+
 <!--END_SECTION:waka-->
 
 
