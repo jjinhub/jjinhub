@@ -57,13 +57,11 @@
 ![Instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 <br/><br/>
 
-# 🛠️ Github Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jjinhub&show_icons=true&theme=radical&border=7F3FBF&background=0D1117&icon_color=F8D866" alt="jjinhub's GitHub streak"/>
-</p>
-
+# 🏆 Ranking
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=khj05592002)](https://www.acmicpc.net/user/khj05592002)
+<br/><br/>
 
+# ⏰ Work Stats
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
@@ -73,6 +71,7 @@
 🌃 Evening                7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
 🌙 Night                  102 commits         ██████████████░░░░░░░░░░░   55.74 % 
 ```
+
 📅 **I'm Most Productive on Monday** 
 
 ```text
@@ -85,7 +84,6 @@ Saturday                 0 commits           ░░░░░░░░░░░�
 Sunday                   5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
 ```
 
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -94,10 +92,13 @@ Sunday                   5 commits           █░░░░░░░░░░�
 💬 Programming Languages: 
 HTML                     2 mins              █████████████████████████   100.00 % 
 ```
-
-
 <!--END_SECTION:waka-->
+<br/><br/>
 
+# 🛠️ Github Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jjinhub&show_icons=true&theme=radical&border=7F3FBF&background=0D1117&icon_color=F8D866" alt="jjinhub's GitHub streak"/>
+</p>
 
 <p href="https://github.com/jjinhub" align="center">
   <img alt="jjinhub's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=jjinhub&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="180em"/>
