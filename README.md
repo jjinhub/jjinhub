@@ -62,11 +62,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jjinhub&show_icons=true&theme=radical&border=7F3FBF&background=0D1117&icon_color=F8D866" alt="jjinhub's GitHub streak"/>
 </p>
 
-[![jjinhub's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hyunjinkim&theme=react%&bg_color=0D1117&border_color=7F3FBF&title_color=F85D7F)](https://wakatime.com/@hyunjinkim)
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=khj05592002)](https://www.acmicpc.net/user/khj05592002)
-
-
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
