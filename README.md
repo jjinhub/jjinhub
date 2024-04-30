@@ -98,8 +98,6 @@ VS Code                  2 mins              ███████████�
 💻 Operating System: 
 Windows                  2 mins              █████████████████████████   100.00 % 
 ```
-
-
 <!--END_SECTION:waka-->
 
 # 🛠️ Github Stats
@@ -128,8 +126,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-
-
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
