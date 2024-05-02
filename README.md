@@ -44,7 +44,6 @@
 
 ### Tools
 ![VScode](https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Photoshop](https://img.shields.io/badge/adobephotoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 <br/><br/>
 
 ### Version Control
