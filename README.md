@@ -62,42 +62,6 @@
 
 # ⏰ Work Stats
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
-🌆 Daytime                62 commits          █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
-🌃 Evening                37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-🌙 Night                  197 commits         ████████████████░░░░░░░░░   63.75 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   146 commits         ████████████░░░░░░░░░░░░░   47.25 % 
-Tuesday                  59 commits          █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
-Wednesday                18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
-Thursday                 22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
-Friday                   20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
-Saturday                 27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
-Sunday                   17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 
 <!--END_SECTION:waka-->
 
