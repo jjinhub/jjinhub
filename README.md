@@ -65,21 +65,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
-🌆 Daytime                62 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
-🌃 Evening                37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
-🌙 Night                  249 commits         █████████████████░░░░░░░░   68.98 % 
+🌞 Morning                13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+🌆 Daytime                62 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
+🌃 Evening                37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+🌙 Night                  250 commits         █████████████████░░░░░░░░   69.06 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   153 commits         ███████████░░░░░░░░░░░░░░   42.38 % 
-Tuesday                  66 commits          █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
-Wednesday                26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
-Thursday                 30 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
-Friday                   28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
-Saturday                 34 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
-Sunday                   24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+Monday                   153 commits         ███████████░░░░░░░░░░░░░░   42.27 % 
+Tuesday                  66 commits          █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
+Wednesday                26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+Thursday                 30 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+Friday                   28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+Saturday                 35 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
+Sunday                   24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
 ```
 
 
