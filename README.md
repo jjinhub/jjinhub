@@ -62,6 +62,43 @@
 
 # ⏰ Work Stats
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+🌆 Daytime                60 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+🌃 Evening                24 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+🌙 Night                  406 commits         ████████████████████░░░░░   80.88 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   175 commits         █████████░░░░░░░░░░░░░░░░   34.86 % 
+Tuesday                  88 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
+Wednesday                48 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
+Thursday                 52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+Friday                   50 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
+Saturday                 42 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+Sunday                   47 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+Text                     2 mins              ████████████████████████░   94.39 % 
+Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+
+🔥 Editors: 
+VS Code                  3 mins              █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  3 mins              █████████████████████████   100.00 % 
+```
+
 
 <!--END_SECTION:waka-->
 
