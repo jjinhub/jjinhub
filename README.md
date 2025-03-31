@@ -36,6 +36,6 @@
 <br/><br/>
 
 # 🏆 Ranking
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={khj05592002})](https://solved.ac/{khj05592002})
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=khj05592002)](https://solved.ac/khj05592002)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=khj05592002&theme=dark)
 <br/><br/>
