@@ -13,3 +13,12 @@
  📧 &emsp; Reach me anytime: khj05592002@naver.com<br/><br/>
  💬 &emsp; Read my blog: [jjinhub's Blog](https://jjinhub.github.io)
 </p>
+<br/><br/>
+
+# 💻 Skills
+[![My Skills](https://skillicons.dev/icons?i=py,r,mysql,postgres,linux,anaconda,selenium,git&perline=10)](https://skillicons.dev)
+<br/><br/>
+
+# 🔨 Tools
+[![My Skills](https://skillicons.dev/icons?i=vscode,ps,md,notion&perline=10)](https://skillicons.dev)
+<br/><br/>
