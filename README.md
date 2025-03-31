@@ -22,3 +22,14 @@
 # 🔨 Tools
 [![My Skills](https://skillicons.dev/icons?i=vscode,ps,md,notion&perline=10)](https://skillicons.dev)
 <br/><br/>
+
+# ✏ Blog
+<a href="https://jjinhub.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://khj05592002.tistory.com/" target="_blank">
+    <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/>
+</a>
+<a href="www.instagram.com/dev_jjiny" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
