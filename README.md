@@ -33,3 +33,8 @@
 <a href="www.instagram.com/dev_jjiny" target="_blank">
     <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
+<br/><br/>
+
+# 🏆 Ranking
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={khj05592002})](https://solved.ac/{khj05592002})
+<br/><br/>
