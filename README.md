@@ -39,3 +39,18 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=khj05592002)](https://solved.ac/khj05592002)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=khj05592002&theme=dark)
 <br/><br/>
+
+# 🛠️ Github Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jjinhub&show_icons=true&theme=radical&border=7F3FBF&background=0D1117&icon_color=F8D866" alt="jjinhub's GitHub streak"/>
+</p>
+
+<p href="https://github.com/jjinhub" align="center">
+  <img alt="jjinhub's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=jjinhub&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="180em"/>
+  <img alt="jjinhub's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=jjinhub&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="180em"/>
+  <br/>
+</p>
+
+![jjinhub's Graph](https://github-readme-activity-graph.vercel.app/graph?username=jjinhub&custom_title=jjinhub's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
